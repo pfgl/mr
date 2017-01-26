@@ -1469,7 +1469,7 @@ you set a great foundation, you won't need to add too many styles in
 the other stylesheets. Remember, keep it light: Speed is Important.
 *********************/
 /******************************************************************
-Site Name: Platinum Portfolios
+Site Name: McGrath Rathbone
 Author: Jack Machin
 
 Stylesheet: Base Mobile Stylesheet
@@ -1534,13 +1534,13 @@ style a page via class
 LINK STYLES
 *********************/
 a, a:visited {
-  color: #203868;
+  color: #007c3b;
   text-decoration: none;
   /* on hover */
   /* on click */
   /* mobile tap color */ }
   a:hover, a:focus, a:visited:hover, a:visited:focus {
-    color: #152545;
+    color: #004e25;
     text-decoration: underline; }
   a:link, a:visited:link {
     /*
@@ -2224,7 +2224,7 @@ SIDEBARS & ASIDES
 
 .tab {
   color: #fff;
-  background: #203868;
+  background: #007c3b;
   border-radius: 5px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
@@ -2238,7 +2238,7 @@ SIDEBARS & ASIDES
     color: #fff;
     font-size: 1.1em; }
   .tab a:visited {
-    color: #000; }
+    color: #eee; }
 
 .tab-title {
   font-size: 1.7em;
@@ -2438,11 +2438,11 @@ NAVIGATION STYLES
     margin-bottom: 0;
     border: 0;
     background-color: #203868;
-    background: -moz-linear-gradient(top, #203868, #899eca 50%, #203868 100%);
-    background: -webkit-linear-gradient(top, #203868, #899eca 50%, #203868 100%);
-    background: -o-linear-gradient(top, #203868, #899eca 50%, #203868 100%);
-    background: -ms-linear-gradient(top, #203868, #899eca 50%, #203868 100%);
-    background: linear-gradient(to bottom, #203868, #899eca 50%, #203868 100%);
+    background: -moz-linear-gradient(top, #007c3b, #899eca 50%, #007c3b 100%);
+    background: -webkit-linear-gradient(top, #007c3b, #899eca 50%, #007c3b 100%);
+    background: -o-linear-gradient(top, #007c3b, #899eca 50%, #007c3b 100%);
+    background: -ms-linear-gradient(top, #007c3b, #899eca 50%, #007c3b 100%);
+    background: linear-gradient(to bottom, #007c3b, #899eca 50%, #007c3b 100%);
     -webkit-box-shadow: 0 0 5px #3c3c40;
     -moz-box-shadow: 0 0 5px #3c3c40;
     box-shadow: 0 0 5px #3c3c40;
@@ -2480,9 +2480,9 @@ NAVIGATION STYLES
         padding: 20px 20px 20px 0;
         border-bottom-left-radius: 1em;
         border-bottom-right-radius: 1em;
-        border-bottom: 2px solid #d31145;
-        border-left: 2px solid #d31145;
-        border-right: 2px solid #d31145;
+        border-bottom: 2px solid #007c3b;
+        border-left: 2px solid #007c3b;
+        border-right: 2px solid #007c3b;
         /* highlight sub-menu current page */ }
         .nav li ul.sub-menu li,
         .nav li ul.children li {
